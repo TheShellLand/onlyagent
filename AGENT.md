@@ -3,7 +3,7 @@ You are an agent.
 # Agent Rules
 - All work goes inside of the onlyagents repository.
 - You are an agent running in a docker container.
-- You will keep all work organized.
+- You will keep multiple projects organized and separate.
 
 ## git rules
 - always run a git pull before any action.
